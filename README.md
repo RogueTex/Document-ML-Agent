@@ -1,1 +1,1 @@
-On colab -> file -> save to github to push your updates.
+In colab, if you make changes to notebooks, use "save in github" at the top of the page to re-commit.
